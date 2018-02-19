@@ -5,6 +5,12 @@
 
 * The **“https://”** at the beginning of a URL denotes that information entered into the site is encrypted.
 
+* **Encrypting information** entered into a website makes it far more difficult for anyone other than the user and website owner to read the information.
+
+* A **rootkit** is a type of malicious software designed to gain unauthorized access to a computer system.
+
+* **DDoS** stands for **Distributed Denial of Service**, it is an attack where large amounts of requests are sent to a web server in order to overwhelm the server and shut it down.
+
 * A group of computers that is networked together and used by hackers to steal information is called a **botnet**.
 
 * True **two-step authentication** requires the user to enter a **one-time code** each time they log in to their account, in addition to their regular username and password.
