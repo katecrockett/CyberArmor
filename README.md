@@ -9,3 +9,4 @@
 * [WiFi Safety](https://www.pcmag.com/article2/0,2817,2407168,00.asp)
 * [File an internet crime complaint **here**](https://www.ic3.gov/default.aspx)
 * [Questionairre with important armor vocab. Could use this as an ice-breaker](http://www.pewinternet.org/dataset/june-2016-cybersecurity-knowledge/)
+* [Opera VPN app](https://www.operavpn.com/)
