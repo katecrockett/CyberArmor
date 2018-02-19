@@ -11,3 +11,4 @@
 * [File an internet crime complaint **here**](https://www.ic3.gov/default.aspx)
 * [Questionairre with important armor vocab. _Could use this as an ice-breaker._](http://www.pewinternet.org/dataset/june-2016-cybersecurity-knowledge/)
 * [Opera VPN app](https://www.operavpn.com/) ––free, but _slow_.
+* [What does an App Developer know?](https://www.consumer.ftc.gov/articles/0018-understanding-mobile-apps)
