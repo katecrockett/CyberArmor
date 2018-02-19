@@ -13,4 +13,4 @@
 * [Opera VPN app](https://www.operavpn.com/) ––free, but _slow_.
 * [What does an App Developer know?](https://www.consumer.ftc.gov/articles/0018-understanding-mobile-apps)
 
-src="//e.infogr.am/top_10_largest_data_breaches_in_history?src=embed"
+e.infogr.am/top_10_largest_data_breaches_in_history?src=embed
