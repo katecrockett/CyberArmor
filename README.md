@@ -12,4 +12,3 @@
 * [Location Tracking FYI/Overview](https://myshadow.org/location-tracking)
 
 * [Evading Tracking](https://inspiredelearning.com/blog/location-services-can-i-be-tracked-even-if-i-turn-it-off-part-1-of-2/)
-
